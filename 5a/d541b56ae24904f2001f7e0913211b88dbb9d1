@@ -1,0 +1,16 @@
+docs_source/en/api/openai/create-embeddings.md
+  h_694c10367f28f7 23,37,39,48-50,58-88,93,125
+docs_source/zh/api/openai/create-embeddings.md
+  h_694c10367f28f7 23,37,39,48-49,58-88,93,125
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "5ad541b56ae24904f2001f7e0913211b88dbb9d1",
+  "prompts": {},
+  "humans": {
+    "h_694c10367f28f7": {
+      "author": "hancheng.ln <hancheng.ln@digital-engine.com>"
+    }
+  }
+}
